@@ -1,0 +1,23 @@
+{
+    "297126784": {
+        "balance": 14000,
+        "first_name": "Denis",
+        "last_name": "Alekseev",
+        "user_name": "Praeque",
+        "registration_time": "21:30:35   2022-08-15"
+    },
+    "634832505": {
+        "balance": 0,
+        "first_name": "Artur Yastrebov",
+        "last_name": null,
+        "user_name": null,
+        "registration_time": "21:30:52   2022-08-15"
+    },
+    "390555046": {
+        "balance": 8000,
+        "first_name": "Vitalii",
+        "last_name": null,
+        "user_name": "TwixyRich",
+        "registration_time": "22:12:47   2022-08-15"
+    }
+}

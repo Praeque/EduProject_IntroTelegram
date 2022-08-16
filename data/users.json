@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "first_name": "Test",
+            "last_name": "Test",
+            "nickname": "test",
+            "email": "test",
+            "balance": "0",
+            "password": "test"
+        },
+        {
+            "first_name": "Dasha",
+            "last_name": "Gapoyants",
+            "nickname": "cat",
+            "email": "dasha@gmail.com",
+            "password": "1234",
+            "balance": "0"
+        },
+        {
+            "first_name": "Denis",
+            "last_name": "Aleksieiev",
+            "nickname": "HAHAHA",
+            "email": "my_emeil@gmail.com",
+            "password": "tapok",
+            "balance": "0"
+        }
+    ]
+}
